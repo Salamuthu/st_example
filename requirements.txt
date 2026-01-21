@@ -1,3 +1,6 @@
 pandas
-scikit-learn (LinearRegression, train_test_split)
+scikit-learn (LinearRegression)
 joblib
+numpy
+streamlit
+

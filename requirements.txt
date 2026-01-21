@@ -1,6 +1,5 @@
-pandas
-scikit-learn (LinearRegression)
-joblib
-numpy
 streamlit
-
+pandas
+numpy
+scikit-learn
+joblib
